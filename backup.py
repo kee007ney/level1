@@ -2,7 +2,7 @@
 # coding: utf-8
 # Disclaimer and credit:
 # The code herein is for demonstration purposes only and is not intended for use as a profit vehicle, or to secure any other compensation.
-# This code was taken from https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_quick_guide.htm
+# This code was modified from https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_quick_guide.htm
 # No credit is taken for its authorship, nor claim to its copyright.
 # If you haven't been able to find a suitable translation service for the login, may I suggest the following: https://web.expasy.org/translate/
 
